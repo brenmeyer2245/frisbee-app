@@ -1,0 +1,14 @@
+/Users/bmeyer/Desktop/frisbee/UFL.API/bin/Debug/netcoreapp2.2/UFL.API.deps.json
+/Users/bmeyer/Desktop/frisbee/UFL.API/bin/Debug/netcoreapp2.2/UFL.API.runtimeconfig.json
+/Users/bmeyer/Desktop/frisbee/UFL.API/bin/Debug/netcoreapp2.2/UFL.API.runtimeconfig.dev.json
+/Users/bmeyer/Desktop/frisbee/UFL.API/bin/Debug/netcoreapp2.2/UFL.API.dll
+/Users/bmeyer/Desktop/frisbee/UFL.API/bin/Debug/netcoreapp2.2/UFL.API.pdb
+/Users/bmeyer/Desktop/frisbee/UFL.API/obj/Debug/netcoreapp2.2/UFL.API.csprojAssemblyReference.cache
+/Users/bmeyer/Desktop/frisbee/UFL.API/obj/Debug/netcoreapp2.2/UFL.API.csproj.CoreCompileInputs.cache
+/Users/bmeyer/Desktop/frisbee/UFL.API/obj/Debug/netcoreapp2.2/UFL.API.RazorAssemblyInfo.cache
+/Users/bmeyer/Desktop/frisbee/UFL.API/obj/Debug/netcoreapp2.2/UFL.API.RazorAssemblyInfo.cs
+/Users/bmeyer/Desktop/frisbee/UFL.API/obj/Debug/netcoreapp2.2/UFL.API.AssemblyInfoInputs.cache
+/Users/bmeyer/Desktop/frisbee/UFL.API/obj/Debug/netcoreapp2.2/UFL.API.AssemblyInfo.cs
+/Users/bmeyer/Desktop/frisbee/UFL.API/obj/Debug/netcoreapp2.2/UFL.API.RazorTargetAssemblyInfo.cache
+/Users/bmeyer/Desktop/frisbee/UFL.API/obj/Debug/netcoreapp2.2/UFL.API.dll
+/Users/bmeyer/Desktop/frisbee/UFL.API/obj/Debug/netcoreapp2.2/UFL.API.pdb

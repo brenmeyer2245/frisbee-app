@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using UFL.API.DB;
+using UFL.API.Models;
 
 namespace UFL.API.Controllers
 {
@@ -10,11 +12,18 @@ namespace UFL.API.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+
+        private readonly UFLDbContext _db;
+        public ValuesController(UFLDbContext db){
+            _db = db;
+        }
+
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+
+            return Ok(_db.Teams.ToList());
         }
 
         // GET api/values/5
